@@ -1,0 +1,15 @@
+D:\dotnet\Kalkulator\ModulFullStringRibuan\bin\Debug\net7.0\ModulFullStringRibuan.exe
+D:\dotnet\Kalkulator\ModulFullStringRibuan\bin\Debug\net7.0\ModulFullStringRibuan.deps.json
+D:\dotnet\Kalkulator\ModulFullStringRibuan\bin\Debug\net7.0\ModulFullStringRibuan.runtimeconfig.json
+D:\dotnet\Kalkulator\ModulFullStringRibuan\bin\Debug\net7.0\ModulFullStringRibuan.dll
+D:\dotnet\Kalkulator\ModulFullStringRibuan\bin\Debug\net7.0\ModulFullStringRibuan.pdb
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.csproj.AssemblyReference.cache
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.AssemblyInfoInputs.cache
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.AssemblyInfo.cs
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.csproj.CoreCompileInputs.cache
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.dll
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\refint\ModulFullStringRibuan.dll
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.pdb
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.genruntimeconfig.cache
+D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ref\ModulFullStringRibuan.dll
