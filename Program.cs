@@ -2,72 +2,78 @@
 {
     class Program
     {
-
         public static string[] _dataAng = { "nol", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan", "sepuluh", "sebelas" };
 
         static void Main(string[] args)
         {
             Console.Clear();
 
-            string input = "satu";
+            string input = "lima ribu lima ratus satu";
 
-            string[] arrInput = input.Split(' ');
-
-            readInput(arrInput);
+            readInput(input);
         }
 
         // NOTE : Method membaca array terbilang dan mengubahnya menjadi array angka
-        static void readInput(string[] arr)
+        static void readInput(string input)
         {
-            int[] tampungan = new int[arr.Length];
+            string[] arr = input.Split(' ');
+
+            List<int> tampungan = new List<int>();
 
             tampilArrayStr(arr);
 
+            int temporary = 0;
+
             for (int i = 0; i < arr.Length; i++)
             {
+
                 if (i % 2 == 1)
                 {
                     if (arr[i] == "ribu")
                     {
-                        int before = i - 1;
-                        tampungan[before] *= 1000;
+                        temporary *= 1000;
+                        tampungan.Add(temporary);
                     }
                     else if (arr[i] == "ratus")
                     {
-                        int before = i - 1;
-                        tampungan[before] *= 100;
+                        temporary *= 100;
+                        tampungan.Add(temporary);
                     }
                     else if (arr[i] == "puluh")
                     {
-                        int before = i - 1;
-                        tampungan[before] *= 10;
+                        temporary *= 10;
+                        tampungan.Add(temporary);
                     }
                     else if (arr[i] == "belas")
                     {
-                        int before = i - 1;
-                        tampungan[before] += 10;
+                        temporary += 10;
+                        tampungan.Add(temporary);
                     }
                     else
                     {
                         Console.WriteLine("Format salah.");
+                        break;
                     }
                 }
-                else
+
+                for (int j = 0; j < _dataAng.Length; j++)
                 {
-                    for (int j = 0; j < _dataAng.Length; j++)
+                    if (arr[i] == _dataAng[j])
                     {
-                        if (arr[i] == _dataAng[j]) tampungan[i] = j;
+                        temporary = j;
                     }
                 }
+
             }
 
             int hasil = 0;
             foreach (int t in tampungan) hasil += t;
 
+            tampilArrayInt(tampungan.ToArray());
             Console.WriteLine(hasil);
         }
 
-        // NOTE : Method mengubah terbilang istimewa menjadi biasa
+        // NOTE : Method untuk menangani terbilang istimewa (seratus, seribu) 
         // Cth  : [seratus] -> [satu][ratus]
         static void ubahTerbilangIstimewa(string[] arr)
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\Kalkulator\\ModulFullStringRibuan\\ModulFullStringRibuan.csproj": {}
+    "D:\\🐱‍👤 github\\kalkulator-challenge\\ModulFullStringRibuan.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\Kalkulator\\ModulFullStringRibuan\\ModulFullStringRibuan.csproj": {
+    "D:\\🐱‍👤 github\\kalkulator-challenge\\ModulFullStringRibuan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Kalkulator\\ModulFullStringRibuan\\ModulFullStringRibuan.csproj",
+        "projectUniqueName": "D:\\🐱‍👤 github\\kalkulator-challenge\\ModulFullStringRibuan.csproj",
         "projectName": "ModulFullStringRibuan",
-        "projectPath": "D:\\dotnet\\Kalkulator\\ModulFullStringRibuan\\ModulFullStringRibuan.csproj",
+        "projectPath": "D:\\🐱‍👤 github\\kalkulator-challenge\\ModulFullStringRibuan.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Kalkulator\\ModulFullStringRibuan\\obj\\",
+        "outputPath": "D:\\🐱‍👤 github\\kalkulator-challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

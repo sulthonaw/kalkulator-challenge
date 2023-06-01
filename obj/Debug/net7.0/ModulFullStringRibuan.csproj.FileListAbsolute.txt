@@ -13,3 +13,18 @@ D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\refint\ModulFullStri
 D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.pdb
 D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ModulFullStringRibuan.genruntimeconfig.cache
 D:\dotnet\Kalkulator\ModulFullStringRibuan\obj\Debug\net7.0\ref\ModulFullStringRibuan.dll
+D:\🐱‍👤 github\kalkulator-challenge\bin\Debug\net7.0\ModulFullStringRibuan.exe
+D:\🐱‍👤 github\kalkulator-challenge\bin\Debug\net7.0\ModulFullStringRibuan.deps.json
+D:\🐱‍👤 github\kalkulator-challenge\bin\Debug\net7.0\ModulFullStringRibuan.runtimeconfig.json
+D:\🐱‍👤 github\kalkulator-challenge\bin\Debug\net7.0\ModulFullStringRibuan.dll
+D:\🐱‍👤 github\kalkulator-challenge\bin\Debug\net7.0\ModulFullStringRibuan.pdb
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.csproj.AssemblyReference.cache
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.AssemblyInfoInputs.cache
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.AssemblyInfo.cs
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.csproj.CoreCompileInputs.cache
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.dll
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\refint\ModulFullStringRibuan.dll
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.pdb
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ModulFullStringRibuan.genruntimeconfig.cache
+D:\🐱‍👤 github\kalkulator-challenge\obj\Debug\net7.0\ref\ModulFullStringRibuan.dll
