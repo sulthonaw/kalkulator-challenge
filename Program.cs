@@ -8,9 +8,7 @@
         {
             Console.Clear();
 
-            string input = "lima ribu lima ratus satu";
-
-            readInput(input);
+            readInput("");
         }
 
         // NOTE : Method membaca array terbilang dan mengubahnya menjadi array angka
@@ -56,6 +54,7 @@
                     }
                 }
 
+
                 for (int j = 0; j < _dataAng.Length; j++)
                 {
                     if (arr[i] == _dataAng[j])
@@ -66,10 +65,13 @@
 
             }
 
+            if (arr.Length % 2 == 1) tampungan.Add(temporary);
+
             int hasil = 0;
             foreach (int t in tampungan) hasil += t;
 
             tampilArrayInt(tampungan.ToArray());
+
             Console.WriteLine(hasil);
         }
 
